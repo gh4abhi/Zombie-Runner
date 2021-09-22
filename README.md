@@ -1,2 +1,2 @@
 # Zombie-Runner
-3D Game made in Unity 3D.
+3D Game made in Unity.
